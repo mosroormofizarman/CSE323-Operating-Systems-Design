@@ -11,14 +11,12 @@ This repository is dedicated to organizing and documenting all materials, resour
 
 This repository is organized into the following folders:
 
-- **lecture_notes/** — Compiled lecture notes and chapter summaries.
-- **textbook_materials/** — Textbook resources and reference materials.
-- **info/** — Course info: syllabus, schedule, instructor details, and administrative documents.
-- **assignments/** — Assignment questions and solutions.
-- **projects/** — Group project materials and resources.
-- **quizzes/** — Quiz questions and study materials.
-- **resources/** — Additional readings, research papers, and reference materials.
-- **presentations/** — Presentation slides and materials.
+- **assignment/** — Assignment questions and student submissions (assignment folder in repo).
+- **books/** — Textbook PDFs, references and recommended reading materials.
+- **class notes/** — Lecture notes, chapter summaries and class handouts.
+- **info/** — Course information: syllabus, schedule, instructor details and administrative docs.
+- **resources/** — Supplementary materials, external links, and reference documents.
+- **slides/** — Presentation slides and lecture slides.
 
 ---
 
